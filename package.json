@@ -1,7 +1,6 @@
 {
-  "name": "npm-pckg",
+  "name": "npm-marcinsojka-package",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -18,5 +17,6 @@
   "bugs": {
     "url": "https://github.com/New-Ton88/npmPackage/issues"
   },
-  "homepage": "https://github.com/New-Ton88/npmPackage#readme"
+  "homepage": "https://github.com/New-Ton88/npmPackage#readme",
+  "description": ""
 }
